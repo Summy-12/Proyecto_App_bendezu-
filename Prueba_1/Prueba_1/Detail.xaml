@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prueba_1.Detail"
+             BackgroundColor="LightBlue">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="drawable/run_store.png" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+            <Label Text="¡RESERVA TU MESA!"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand"
+                   FontSize="24"                  
+                   FontAttributes="Bold"
+                   TextColor="Blue"   />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

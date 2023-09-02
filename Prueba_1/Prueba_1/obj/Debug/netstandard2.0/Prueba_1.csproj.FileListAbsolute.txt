@@ -1,0 +1,17 @@
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\bin\Debug\netstandard2.0\Prueba_1.deps.json
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\bin\Debug\netstandard2.0\Prueba_1.dll
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\bin\Debug\netstandard2.0\ref\Prueba_1.dll
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\bin\Debug\netstandard2.0\Prueba_1.pdb
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\Prueba_1.csproj.AssemblyReference.cache
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\Prueba_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\Detail.xaml.g.cs
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\Master.xaml.g.cs
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\Prueba_1.AssemblyInfoInputs.cache
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\Prueba_1.AssemblyInfo.cs
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\Prueba_1.csproj.CoreCompileInputs.cache
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\Prueba_1.dll
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\refint\Prueba_1.dll
+C:\Users\SUMMY\source\repos\Prueba_1\Prueba_1\Prueba_1\obj\Debug\netstandard2.0\Prueba_1.pdb

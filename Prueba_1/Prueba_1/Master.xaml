@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prueba_1.Master"
+             Title="Master">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="ButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="CadetBlue"/>
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="HeightRequest" Value="50"/>
+                <Setter Property="WidthRequest" Value="200"/>
+                <Setter Property="Margin" Value="10"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout Margin="0,20,0,0">
+            <Button Text="Agregar reserva" x:Name="btnAgregar" Style="{StaticResource ButtonStyle}" Clicked="Button_Clicked"/>
+            <Button Text="Listar reserva" x:Name="btnListar" Style="{StaticResource ButtonStyle}" Clicked="Button_Get_Clicked"/>
+            <Button Text="Editar reserva" x:Name="btnEditar" Style="{StaticResource ButtonStyle}" Clicked="Button_Edit_Clicked"/>
+            <Button Text="Eliminar reserva" x:Name="btnEliminar" Style="{StaticResource ButtonStyle}" Clicked="Button_Eliminar_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
